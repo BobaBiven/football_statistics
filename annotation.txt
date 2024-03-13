@@ -1,0 +1,17 @@
+Pts/MP - points per game (win - 3, draw - 1, lose - 0)
+Gls - goals per game
+GA - goals against per game
+Ast - assisssts per game
+Sh/90 - shots per game
+Dist - average shot distance
+PKatt - penalty kicks attempted per game
+Cmp - completed passes per 90 minutes
+Cmp% - pass completion %
+PrgDist - distance, that completed passes traveled towards the opponents goal per game
+Att 3rd - touches in attacking 3rd per game
+TotDist - distance that ball was carried towards the opposing goal per game
+Tkl+Int	- tackles + interceptions per game
+Err - errors that led to opposing goals per game
+Save% - goalkeepers save %
+Fls - fouls per game
+Won% - aerials duels won %
